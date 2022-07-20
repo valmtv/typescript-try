@@ -1,0 +1,11 @@
+{
+  "name": "typescript-try",
+  "version": "1.0.0",
+  "description": "learn typescrip",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start test"
+  },
+  "author": "Valeryy Matviiv",
+  "license": "ISC"
+}
